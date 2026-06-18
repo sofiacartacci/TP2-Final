@@ -1,1 +1,0 @@
-# jueves-ya-tp2-a
