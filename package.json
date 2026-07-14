@@ -2,9 +2,9 @@
   "dependencies": {
     "express": "^5.2.1"
   },
-  "name": "jueves-ya-tp2a",
+  "name": "tp2-final",
   "version": "1.0.0",
-  "description": "",
+  "description": "TP2 Final - API REST con Express",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osvaldo-ojeda/jueves-ya-tp2-a.git"
+    "url": "git+https://github.com/sofiacartacci/TP2-Final.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sofia Cartacci",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/osvaldo-ojeda/jueves-ya-tp2-a/issues"
+    "url": "https://github.com/sofiacartacci/TP2-Final/issues"
   },
-  "homepage": "https://github.com/osvaldo-ojeda/jueves-ya-tp2-a#readme"
+  "homepage": "https://github.com/sofiacartacci/TP2-Final#readme"
 }
