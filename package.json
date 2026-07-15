@@ -4,7 +4,7 @@
   },
   "name": "tp2-final",
   "version": "1.0.0",
-  "description": "TP2 Final - API REST con Express",
+  "description": "TP2 Final",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
