@@ -1,5 +1,5 @@
 class AlertaDAOMemoria {
-     #alertas = new Map() // sensorId -> Alerta
+     #alertas = new Map()
 
      guardar = async (alerta) => {
           this.#alertas.set(alerta.sensorId, alerta)
